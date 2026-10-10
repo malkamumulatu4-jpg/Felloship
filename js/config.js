@@ -10,7 +10,7 @@ const TEAMS = [
   { id: 'worship', name: 'Worship Team',      icon: '🎵', photo: 'images/photo_2026-10-10_16-47-41.jpg'     },
   { id: 'choir', name: 'choir Team',      icon: '📣', photo: 'images/photo_2026-10-10_16-47-38.jpg'     },
   { id: 'art',     name: 'Art Team',          icon: '🎨', photo: 'images/photo_2026-10-10_16-47-53 (2).jpg' },
-  { id: 'fund',    name: 'Fund Team',         icon: '', photo: 'images/photo_2026-10-10_16-57-19.jpg'     }
+  { id: 'fund',    name: 'Fund Team',         icon: '💰', photo: 'images/photo_2026-10-10_16-57-19.jpg'     }
 ];
 
 /* Used only when a "photo" above has no file extension */
